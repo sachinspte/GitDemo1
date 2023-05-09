@@ -20,7 +20,8 @@ public class DataProviderWithExcel
 	{
 		System.out.println(s1 +" "+s2 +" "+ s3);
 		//System.out.println(rowCount);	
-       //System.out.println(rowCount);			
+       //System.out.println(rowCount);
+//1	   
 	}
 		
 	@DataProvider(name="driverTest")
